@@ -4,3 +4,4 @@ scipy
 plotly
 streamlit
 openpyxl
+altair==4.2.2
